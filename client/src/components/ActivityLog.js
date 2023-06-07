@@ -27,7 +27,6 @@ const ActivityLog = () => {
               <p className="mt-4 ml-2 text-gray-600">
                 16 Mar 2023,
                 <span>
-                  {" "}
                   <p>16:30:25 PM</p>
                 </span>
               </p>
@@ -56,7 +55,7 @@ const ActivityLog = () => {
               <p className="mt-2 ml-2 text-gray-600">
                 16 Mar 2023,
                 <span>
-                  {" "}
+               
                   <p>16:30:25 PM</p>
                 </span>
               </p>
@@ -84,7 +83,7 @@ const ActivityLog = () => {
               <p className="mt-2 ml-2 text-gray-600">
                 16Mar 2023,
                 <span>
-                  {" "}
+              
                   <p>16:30:25 PM</p>
                 </span>
               </p>
